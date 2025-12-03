@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @WildWrankie1 / Francisco Candamio
 - 👀 I’m interested in learning some Java, CSS, HTML5, Javascript, C#, .NET, ETC...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Facebook, Instagram, Telegram
-- 😄 Pronouns: He.
-- ⚡ Fun fact: Love Videogames
+- 📫 How to reach me: Facebook, Instagram, Telegram.
+- 😄 Pronouns: He / Him.
+- ⚡ Fun fact: Love Videogames and food 😁
 
 <!---
 WildWrankie1/WildWrankie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
