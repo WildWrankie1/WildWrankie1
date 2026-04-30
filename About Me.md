@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @WildWrankie1 / Francisco Candamio
-- 👀 I’m interested in learning some Java, CSS, HTML5, Javascript, C#, .NET, ETC...
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Facebook, Instagram, Telegram.
-- 😄 Pronouns: He / Him.
-- ⚡ Fun fact: Love Videogames and food 😁
+<h2 align="center">Hola, soy un entusiasta del Frontend 💻</h2>
 
+<p align="left">
+  Me encanta transformar ideas en experiencias visuales funcionales usando:
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 <!---
 WildWrankie1/WildWrankie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
