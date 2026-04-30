@@ -5,7 +5,7 @@
 </p>
 
 ### 💻 Mis Prácticas de Frontend
-- 🎨 **Landing Page**: <a href="([https://WildWrankie1/Mi-primera-web/blob/main/index.html])">[Ver sitio web] </a>
+- 🎨 **Landing Page**: <a href="([https://github.com/WildWrankie1/Mi-primera-web/blob/main/index.html])"> Ver sitio web </a>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
