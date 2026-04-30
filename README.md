@@ -16,7 +16,7 @@
 
 
 ### 💻 Mis Prácticas de Frontend
-- 🎨 **Landing Page**: [Ver sitio web](https://github.com/WildWrankie1/Mi-primera-web/blob/main/index.html)
+- 🎨 **Mi primera web**: [Ver sitio web](https://github.com/WildWrankie1/Mi-primera-web/blob/main/index.html)
 - 👽 **Tarjeta de perfil**: [ver proyecto](https://wildwrankie1.github.io/Tarjeta_de_perfil/perfil.html)
 <!---
 WildWrankie1/WildWrankie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
