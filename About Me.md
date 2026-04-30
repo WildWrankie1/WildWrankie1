@@ -6,6 +6,7 @@
 
 ### 💻 Mis Prácticas de Frontend
 - 🎨 **Landing Page**: [Ver sitio web](https://github.com/WildWrankie1/Mi-primera-web/blob/main/index.html)
+- 👽 **Tarjeta de perfil**: [ver proyecto](https://wildwrankie1.github.io/Tarjeta_de_perfil/perfil.html)
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
