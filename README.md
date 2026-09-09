@@ -1,4 +1,4 @@
-##👋
+👋
 
 <h2 align="center">Hola, soy un entusiasta de Desarrollo WEb 💻</h2>
 
