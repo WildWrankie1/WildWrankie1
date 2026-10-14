@@ -19,6 +19,7 @@
 - 🎨 **Mi primera web**: [Ver sitio web](https://github.com/WildWrankie1/Mi-primera-web/blob/main/index.html)
 - 👽 **Tarjeta de perfil**: [ver proyecto](https://wildwrankie1.github.io/Tarjeta_de_perfil/perfil.html)
 - 👾 **Juego de la serpiente**: [ver juego](https://wildwrankie1.github.io/Juego-de-la-serpiente/)
+- ♟️ **Juego de Ajedrez**: [ver juego](https://wildwrankie1.github.io/ajedrez-p2p/)
 <!---
 WildWrankie1/WildWrankie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
