@@ -1,6 +1,6 @@
 👋
 
-<h2 align="center">Hola, soy un entusiasta de Desarrollo WEb 💻</h2>
+<h2 align="center">Hola, soy un entusiasta de Desarrollo Web 💻</h2>
 
 <p align="left">
   Me encanta transformar ideas en experiencias visuales funcionales usando:
